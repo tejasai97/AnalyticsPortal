@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c75c4c24b37c13078acbc5a"},"name":"apache","companyname":"google","repos":["test","test2"],"count":{"$numberInt":"2"}}
+{"_id":{"$oid":"5c76e5f136ed571334cbb14a"},"name":"stdio.h","companyname":"google","repos":["test"]}
+{"_id":{"$oid":"5c7a9e5c3f52f229bc64ab3d"},"name":"json","companyname":"google","repos":["test2"]}
+{"_id":{"$oid":"5c7acfc2d318b103a4e433a4"},"name":"stdlib.h","companyname":"facebook","repos":["DataMining","IOT"]}
